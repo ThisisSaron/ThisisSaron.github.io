@@ -49,8 +49,8 @@ interests: # FIX THISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 education:
   - degree: Bachelor in Computer Science
     institution: Alfred University
-    start: AUGUST 2023
-    end: MAY 2027
+    start: 2023-09-26
+    end: 2027-05-08
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
