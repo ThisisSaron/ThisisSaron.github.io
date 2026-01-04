@@ -47,7 +47,7 @@ interests: # FIX THISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
   - AI Ethics
 
 education:
-  - degree: Bachelor in Computer Science
+  - degree: BS in Computer Science
     institution: Alfred University
     start: 2023-09-26
     end: 2027-05-08
@@ -57,14 +57,16 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+
+  # - degree: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   start: 2013-09-01
+  #   end: 2015-05-31
+  # - degree: BS Computer Science
+  #   institution: MIT
+  #   start: 2009-09-01
+  #   end: 2013-05-31 
+
 
 experience:
   - role: Senior AI Research Scientist
