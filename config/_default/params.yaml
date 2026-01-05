@@ -48,11 +48,11 @@ hugoblox:
       background: ""
       foreground: ""
       header:
-        background: ""
-        foreground: ""
+        background: "#437358"
+        foreground: "#043017"
       footer:
-        background: ""
-        foreground: ""
+        background: "#437358"
+        foreground: "#043017"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
