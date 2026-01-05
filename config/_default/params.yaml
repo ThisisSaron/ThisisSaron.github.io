@@ -46,7 +46,7 @@ hugoblox:
     # Optional: Semantic surface color overrides
     surfaces:
       background: "light-green"
-      foreground: ""
+      foreground: "light-pink"
       header:
         background: ""
         foreground: ""
