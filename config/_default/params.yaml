@@ -45,8 +45,8 @@ hugoblox:
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: "light-green"
-      foreground: "light-pink"
+      background: "green"
+      foreground: ""
       header:
         background: ""
         foreground: ""
