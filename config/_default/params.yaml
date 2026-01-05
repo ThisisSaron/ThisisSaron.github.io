@@ -49,10 +49,10 @@ hugoblox:
       foreground: ""
       header:
         background: "#3b0c3a"
-        foreground: ""
+        foreground: "#ffffff"
       footer:
         background: "#3b0c3a"
-        foreground: ""
+        foreground: "#ffffff"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
