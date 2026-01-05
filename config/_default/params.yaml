@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-    font: "serif" #"sans"
+    font: "sans"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
     size: "md"
 
@@ -83,9 +83,9 @@ hugoblox:
   header:
     enable: true
     # Header style variant
-    style: navbar                       # navbar | navbar-simple | minimal
+    style: navbar-simple                       # navbar | navbar-simple | minimal
     # Stick to top on scroll
-    sticky: true
+    sticky: false
     # Menu alignment
     align: center                       # left | center | right
     # Feature toggles
